@@ -19,7 +19,6 @@ v1.2.0 is out! Here's a quick breakdown of the update:
 - Added ability to more easily exit out of the Browser Tools server with Ctrl+C
 
   
-
 Please make sure to update the version in your IDE / MCP client as so:
 `npx @agentdeskai/browser-tools-mcp@1.2.0`
 
